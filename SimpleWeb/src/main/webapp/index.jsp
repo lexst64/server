@@ -9,6 +9,7 @@
 </head>
 <body>
 	<h1>Hello JSP 111</h1>
+	<p>Just a text</p>
 	<%=
 		
 	%>
