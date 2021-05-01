@@ -7,7 +7,7 @@ import java.util.List;
 public class Reverse {
 	
 	public static void main(String[] args) {
-		System.out.println(reverse("HEllo world"));
+		System.out.println(reverse("Hello world"));
 	}
 	
 	public String reverseText(String input) {
